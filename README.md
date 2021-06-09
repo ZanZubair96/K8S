@@ -24,3 +24,9 @@ Step- 6: run the service.yaml file to start the services the kubernetes port ser
 
 Step- 7: run the rep.yaml file to start the chrome nodes for the selenium grid.
 
+
+References:
+1. https://amigoscode.com/   >>> Amigoscode
+2. https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-interactive/   >>> Official site
+3. https://www.youtube.com/playlist?list=PL6tu16kXT9PpKXQADb8AyJ1zHyp7xDHHo  >>> Kubernetes for Testers
+4. Blogs for kubernetes for selenium setup.
