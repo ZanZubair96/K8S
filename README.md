@@ -12,7 +12,15 @@ Step- 2: Start the minikube by running the following command: "minikube start"
 
 Note: minikube is local Kubernetes, focusing on making it easy to learn and develop for Kubernetes.
 
-Step- 3: run "kubectl get nodes", to get the information about the running nodes (minikube). 
+Step- 3: run "minikube status", to get the running status.
+
+Step- 4: run "kubectl get nodes", to get the information about the running nodes (minikube). 
 
 Note:  kubectl, allows you to run commands against Kubernetes clusters. You can use kubectl to deploy applications, inspect and manage cluster resources, and view logs.
+
+Step- 5: run the deploy.yaml file to start the sample "Selenium-hub" which is specified in the yaml file.
+
+Step- 6: run the service.yaml file to start the services the kubernetes port service.
+
+Step- 7: run the rep.yaml file to start the chrome nodes for the selenium grid.
 
