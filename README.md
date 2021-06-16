@@ -6,7 +6,7 @@ Prerequesite: (K8S in windows)
 2. Kubectl (Get it from here >>> https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/)
 3. Minikube (Get it from here >>> https://minikube.sigs.k8s.io/docs/start/)
 
-Step- 1: Start the docker in your windows machine 
+Step- 1: Start the docker in your windows machine (if you don't start the docker, then it will use the system VM)
 
 Step- 2: Start the minikube by running the following command: "minikube start"
 
